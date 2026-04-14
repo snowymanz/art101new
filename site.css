@@ -2,6 +2,9 @@ p {color : blueviolet; font-size : small; }
 
 ol {color: red; font-size : large; }
 
-html {background-image: url("Mani\'s_Cats.webp") ; width: ; font-family: Arial, Helvetica, sans-serif;}
+.header1 {color : rgb(31, 6, 60);font-size : xx-large;}
 
-span {background-color: white}
+html {background-image: url("Mani\'s_Cats.webp") ; background-size: cover; font-family: Arial, Helvetica, sans-serif;}
+
+span {background-color: orangered ;}  
+
