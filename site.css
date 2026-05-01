@@ -4,7 +4,7 @@ ol {color: red; font-size : large; }
 
 .header1 {color : rgb(31, 6, 60);font-size : xx-large;}
 
-html {background-image: url("Mani\'s_Cats.webp") ; background-size: cover; font-family: Arial, Helvetica, sans-serif;}
+html {background-image: url("Mani\'s_Cats.webp") ; background-position-x: center; font-family: Arial, Helvetica, sans-serif;}
 
 span {background-color: orangered ;}  
 
